@@ -1,0 +1,26 @@
+[
+  {
+    "case_id": "deal_valid_alert",
+    "title": "Sony WH-1000XM5 Wireless Headphones",
+    "url": "https://deals.example/sony-xm5",
+    "listed_price": 220.0,
+    "shipping_cost": 10.0,
+    "estimated_tax": 15.0,
+    "frontier_estimate": 350.0,
+    "specialist_estimate": 340.0,
+    "neural_estimate": 330.0,
+    "expected_notify": true
+  },
+  {
+    "case_id": "deal_high_disagreement_reject",
+    "title": "Refurbished Espresso Machine",
+    "url": "https://deals.example/espresso-refurb",
+    "listed_price": 180.0,
+    "shipping_cost": 0.0,
+    "estimated_tax": 10.0,
+    "frontier_estimate": 400.0,
+    "specialist_estimate": 220.0,
+    "neural_estimate": 260.0,
+    "expected_notify": false
+  }
+]
